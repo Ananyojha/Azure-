@@ -1,7 +1,6 @@
 #!/bin/bash -ex
     sudo apt-get update -y
     sudo apt-get install apache2 -y
-    sudo service apache2 restart
     echo '<!DOCTYPE html>
 <html lang="en">
   <head>
