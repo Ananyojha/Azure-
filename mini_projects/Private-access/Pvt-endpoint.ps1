@@ -128,6 +128,10 @@ New-AzVM -ResourceGroupName 'CreatePrivateEndpointQS-rg' -Location 'eastus' -VM 
 
 $appRG = Read-Host "Please enter your webapp Resource group: "
 
+New-AzAppServicePlan -ResourceGroupName "Default-Web-WestUS" -Name "ContosoASP" -Location "West US" -Tier "PremiumV2" -NumberofWorkers 2 -WorkerSize "Small"
+
+New-AzWebApp -ResourceGroupName Default-Web-WestUS -Name "ContosoSite" -Location "West US" -AppServicePlan "ContosoServicePlan"
+
 $webapp = Get-AzWebApp -ResourceGroupName $appRG -Name <your-webapp-name>
 
 ## Create Private Endpoint connection. ##
