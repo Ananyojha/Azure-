@@ -1,3 +1,5 @@
+$ErrorActionPreference = "Stop"
+
 New-AzResourceGroup -Name 'CreatePrivateEndpointQS-rg' -Location 'eastus'
 
 ## Create backend subnet config. ##
