@@ -126,7 +126,9 @@ New-AzVM -ResourceGroupName 'CreatePrivateEndpointQS-rg' -Location 'eastus' -VM 
 
 ## Replace <your-webapp-name> with your webapp name ##
 
-$webapp = Get-AzWebApp -ResourceGroupName <webapp-resource-group-name> -Name <your-webapp-name>
+$appRG = Read-Host "Please enter your webapp Resource group: "
+
+$webapp = Get-AzWebApp -ResourceGroupName $appRG -Name <your-webapp-name>
 
 ## Create Private Endpoint connection. ##
 
