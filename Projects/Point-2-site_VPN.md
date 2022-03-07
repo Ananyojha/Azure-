@@ -1,6 +1,6 @@
 [point-2-site with AAD authentication YouTube tutorial](https://youtu.be/Ur0WNjnXJrU)
 
-[MS DOCS TUTORIAL](https://docs.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant)
+[P2S + AAD-MS DOCS TUTORIAL](https://docs.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant)
 
 
 [azure tutorial](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal#generatecert)
