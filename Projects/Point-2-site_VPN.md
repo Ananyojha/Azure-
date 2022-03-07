@@ -4,6 +4,7 @@
 
 [YouTube tutorial](https://youtu.be/j-dd_5Qh2L4)
 
+`EC2--> CONNECT --> RDP ---> UPLOAD FILE---> DECRYPT PASSWORD`
 
 ```
 # POINT TO SITE SAMPLE
