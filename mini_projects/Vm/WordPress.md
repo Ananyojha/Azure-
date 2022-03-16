@@ -2,6 +2,8 @@
 
 [Name cheap SSL on Nginx](https://www.namecheap.com/support/knowledgebase/article.aspx/9419/33/installing-an-ssl-certificate-on-nginx/)
 
+[LEMP ON ubuntu](https://tonyteaches.tech/wordpress-on-nginx-server/)
+
 [install wordpress on ubuntu | from ubuntu](https://ubuntu.com/tutorials/install-and-configure-wordpress#2-install-dependencies)
 
 [MS DOCS](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack)
