@@ -4,6 +4,8 @@
 
 [Official Nginx by Nginx](https://www.nginx.com/blog/installing-wordpress-with-nginx-unit/)
 
+[Nginx config setup](https://www.linode.com/docs/guides/how-to-install-nginx-ubuntu-18-04/)
+
 ![](https://docs.microsoft.com/en-us/azure/architecture/high-availability/images/ref-arch-iaas.png#lightbox)
 
 ## Projects List :
