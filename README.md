@@ -1,5 +1,7 @@
 # Azure
 
+[LEMP ON UBUNTU](https://youtu.be/vZjAhjqLakU)
+
 ![](https://docs.microsoft.com/en-us/azure/architecture/high-availability/images/ref-arch-iaas.png#lightbox)
 
 ## Projects List :
