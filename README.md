@@ -2,6 +2,8 @@
 
 [LEMP ON UBUNTU](https://youtu.be/vZjAhjqLakU)
 
+[Official Nginx by Nginx](https://www.nginx.com/blog/installing-wordpress-with-nginx-unit/)
+
 ![](https://docs.microsoft.com/en-us/azure/architecture/high-availability/images/ref-arch-iaas.png#lightbox)
 
 ## Projects List :
