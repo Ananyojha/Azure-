@@ -1,5 +1,7 @@
 # Azure
 
+[Multi-tier WordPress](https://www.linkedin.com/pulse/setting-up-wordpress-mysql-two-different-ec2-mohit-agarwal)
+
 [LEMP ON UBUNTU](https://youtu.be/vZjAhjqLakU)
 
 [Official Nginx by Nginx](https://www.nginx.com/blog/installing-wordpress-with-nginx-unit/)
